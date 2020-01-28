@@ -15,7 +15,6 @@ namespace CSharpProject
                 continueRunning = Console.ReadLine();
             }
             Console.ReadKey();
-        }
 
         
         }
@@ -46,6 +45,6 @@ namespace CSharpProject
                 studentRecord.LastClassCompletedOn = lastCompletedOn;
                 Console.WriteLine($"Student Id | Name |  Class "); ;
                 Console.WriteLine($"{studentRecord.StudentId} | {studentRecord.FirstName} {studentRecord.LastName} | {studentRecord.ClassName} ");
-        
+        }
     }
 }
