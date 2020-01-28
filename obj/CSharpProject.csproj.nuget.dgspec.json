@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timmy ray\\Documents\\github\\CSharpProject\\CSharpProject.csproj": {}
+    "C:\\Users\\timmy ray\\documents\\github\\CSharpProject\\CSharpProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timmy ray\\Documents\\github\\CSharpProject\\CSharpProject.csproj": {
+    "C:\\Users\\timmy ray\\documents\\github\\CSharpProject\\CSharpProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timmy ray\\Documents\\github\\CSharpProject\\CSharpProject.csproj",
+        "projectUniqueName": "C:\\Users\\timmy ray\\documents\\github\\CSharpProject\\CSharpProject.csproj",
         "projectName": "CSharpProject",
-        "projectPath": "C:\\Users\\timmy ray\\Documents\\github\\CSharpProject\\CSharpProject.csproj",
+        "projectPath": "C:\\Users\\timmy ray\\documents\\github\\CSharpProject\\CSharpProject.csproj",
         "packagesPath": "C:\\Users\\timmy ray\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timmy ray\\Documents\\github\\CSharpProject\\obj\\",
+        "outputPath": "C:\\Users\\timmy ray\\documents\\github\\CSharpProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\timmy ray\\AppData\\Roaming\\NuGet\\NuGet.Config"

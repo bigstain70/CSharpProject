@@ -1,0 +1,11 @@
+C:\Users\timmy ray\Documents\github\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.csprojAssemblyReference.cache
+C:\Users\timmy ray\Documents\github\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.AssemblyInfoInputs.cache
+C:\Users\timmy ray\Documents\github\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.AssemblyInfo.cs
+C:\Users\timmy ray\Documents\github\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.exe
+C:\Users\timmy ray\Documents\github\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.deps.json
+C:\Users\timmy ray\Documents\github\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.runtimeconfig.json
+C:\Users\timmy ray\Documents\github\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.runtimeconfig.dev.json
+C:\Users\timmy ray\Documents\github\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.dll
+C:\Users\timmy ray\Documents\github\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.pdb
+C:\Users\timmy ray\Documents\github\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.dll
+C:\Users\timmy ray\Documents\github\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.pdb
